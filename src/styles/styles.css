@@ -1,0 +1,17 @@
+body {
+  background: #f7ede7;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
